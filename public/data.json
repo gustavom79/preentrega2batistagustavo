@@ -1,0 +1,15 @@
+
+{
+    "categories": {
+      "libros": [
+        { "id": "1", "name": "Libro de React", "image": "https://blog.wildix.com/wp-content/uploads/2020/06/react-logo.jpg" },
+        { "id": "2", "name": "Libro de JavaScript", "image": "https://codersfree.nyc3.cdn.digitaloceanspaces.com/posts/que-es-javascript-descubre-sus-5-principales-usos.jpg" }
+      ],
+      "vehiculos": [
+        { "id": "3", "name": "Auto Eléctrico", "image": "https://storage.googleapis.com/carmuv-development.appspot.com/1/2022/05/nota-carmuv-el%C3%A9ctricos-1.jpg" },
+        { "id": "4", "name": "Bicicleta", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6jP8ePZPnyUvMH9Wcak9wjUbOfUBoLUQcyQ&s" }
+      ]
+    }
+  }
+  
+  
